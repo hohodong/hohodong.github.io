@@ -3,8 +3,7 @@ theme: jekyll-theme-cayman
 language: zh-CN
 
 # Site
-title: NightTeam
+title: Blog
 subtitle: 一个专注技术的组织
-description: 涉猎的主要编程语言为 Python、Rust、C++、Go，领域涵盖爬虫、深度学习、服务研发和对象存储等。
-keywords: "Python, Rust, C++, Go, 爬虫, 深度学习, 服务研发, 对象存储"
-author: NightTeam
+description: 在记录中学习
+author: Due-east
